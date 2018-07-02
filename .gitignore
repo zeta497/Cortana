@@ -1,3 +1,3 @@
 # ignore the sensitive bot-specific settings so they don't get published
-settings.json
+# settings.json
 /node_modules
