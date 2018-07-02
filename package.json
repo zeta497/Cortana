@@ -1,0 +1,14 @@
+{
+  "name": "cortana",
+  "version": "0.0.1",
+  "description": "A bot for The Pillar of Autumn server.",
+  "main": "cortana.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeta497",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
