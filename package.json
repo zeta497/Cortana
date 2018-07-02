@@ -4,6 +4,7 @@
   "description": "A bot for The Pillar of Autumn server.",
   "main": "cortana.js",
   "scripts": {
+    "start": "cortana.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Zeta497",
